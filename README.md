@@ -1,2 +1,4 @@
 # Linkedin_message_auto
-Code to help send automated linkedin message 
+Code to help automate your linkedin outreach 
+
+
